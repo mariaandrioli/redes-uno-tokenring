@@ -133,7 +133,7 @@ def imprimeCarta(c): # imprime unica carta com cor
 	print
 
 def telaInicio(): # mostra tela de inicio
-	for i in range(6):
+	for i in range(3):
 		print                                                        
 	print colored('    UUUUUUUU     UUUUUUUU NNNNNNNN        NNNNNNNN      OOOOOOOOO       ', 'red')
 	print colored('    U::::::U     U::::::U N:::::::N       N::::::N    OO:::::::::OO   ', 'red')

@@ -3,10 +3,16 @@
 ## Descrição
 Este trabalho implementa o jogo UNO utlizando a tecnologia de rede token ring.
 
+## Instalações
+
+```
+python2 token.py 
+```
+
 ## Funcionamento
 
 ```
-python token.py 
+python2 token.py <PRIMEIRO PORT> <PROXIMO IP> <PROXIMO PORT>
 ```
 
 ### Autores

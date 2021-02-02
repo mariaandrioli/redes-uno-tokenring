@@ -20,7 +20,7 @@ def main():
 	dado = None
 	comprouDuas = False
 	taComToken = str(euPort) + ' esta com o token'
-	primeiro = bool(input("Primeiro a jogar? "))
+	primeiro = bool(input("Primeiro a jogar? 0/1\n"))
 	temToken = primeiro
 	tokenChegou = 'o token chegou '
 
